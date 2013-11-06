@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "reverse_geocoder"
   spec.version       = ReverseGeocoder::VERSION
   spec.authors       = ["Sean McCann"]
-  spec.email         = ["sean@seanmccann.ca"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.email         = ["sean@intrans.com"]
+  spec.summary       = "Reverse geocoder for Data Science Toolkit"
+  spec.description   = "Reverse geocoder for Data Science Toolkit"
   spec.homepage      = ""
   spec.license       = "MIT"
 
